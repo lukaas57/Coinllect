@@ -10,9 +10,6 @@ from spike import Spike
 from item import Item
 
 
-# TODO: pridaj levely napr. kazdych 100 coinov sa zmeni pozadie a budu ine itemy ine spiky atd...
-# TODO: a este napr. nejaky shop pred dalsim levlom a nejakych bossov, a mozno pridat nejaku fight mechaniku augmenty...
-
 pygame.init()
 icon = pygame.image.load(resource_path('assets/coin.png'))
 pygame.display.set_icon(icon)
