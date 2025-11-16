@@ -5,14 +5,6 @@ from utils import *
 
 class Item:
 
-    # TODO:
-    # mozno spravit inventar na itemy alebo budu insta use
-    # PICKAXE pre znicenie nejakeho spiku
-    # SHIELD prezije jeden naraz spiku
-    # POTION na invulnerable, na speed, na slow spiky na chvilu
-    # MAGNET na coiny
-    # nejaka vec ktora vystreli po minci
-    # LEGENDARY ITEM na reset spikov na 1
 
     def __init__(self):
         self.size = 48
